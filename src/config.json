@@ -1,0 +1,5 @@
+{
+    "gameFile": "./main.js",
+    "enableWhiteByDefault": true,
+    "title": "Qngine TypeScript Example"
+}

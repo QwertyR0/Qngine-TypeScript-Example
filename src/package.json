@@ -1,0 +1,15 @@
+{
+  "name": "qngine-ts-example",
+  "version": "1.0.0",
+  "description": "An example game for Qngine in TypeScript. Credits to Kenney for making all of the assets",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+  }
+}
